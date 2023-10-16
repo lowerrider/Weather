@@ -1,6 +1,6 @@
 # Weather forecast for the next 16 days
 
-# https://lowerrider.github.io/weather/
+# https://lowerrider.github.io/Weather/
 
 ### Technology stack: React, CSS Modules
 
