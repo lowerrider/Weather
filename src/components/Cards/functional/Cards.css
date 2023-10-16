@@ -1,0 +1,25 @@
+.react-multiple-carousel__arrow {
+    background: rgba(0, 0, 0, 0);
+}
+
+.react-multiple-carousel__arrow:hover {
+    background: rgba(0, 0, 0, 0.1);
+}
+
+.react-multiple-carousel__arrow::before {
+    color: rgba(0, 0, 0, 0.3);
+}
+
+.react-multiple-carousel__arrow--right {
+    right: 1%;
+}
+
+.react-multiple-carousel__arrow--left {
+    left: 1%;
+}
+
+.cards-city {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 5px 0;
+}
